@@ -24,3 +24,8 @@ To get started with **Pixel Whisperer**, follow these simple steps:
    git clone https://github.com/your-username/Pixel-Whisperer.git
    cd Pixel-Whisperer
 
+
+![a](https://github.com/user-attachments/assets/518d3eb2-2cce-46b5-bec1-974a4357da1d)
+![b](https://github.com/user-attachments/assets/530a855c-f859-4938-8641-724ffa448f53)
+![c](https://github.com/user-attachments/assets/a847699a-c68d-407e-b22b-1c2defee845c)
+
